@@ -4,7 +4,11 @@
 > Ready-to-deploy minimalist microservices & templates on Cloudflare Workers, D1, R2 & Pages.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/flare-box?style=social)](https://github.com/realchendahuang/flare-box)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/flare-box?style=social)](https://github.com/realchendahuang/flare-box/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/flare-box)](https://github.com/realchendahuang/flare-box/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/flare-box/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
